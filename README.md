@@ -54,12 +54,12 @@ It includes complete **data cleaning, EDA, visualization, and insight generation
 
 
 ```
-├── Dataset/               # Raw & cleaned datasets
+├── Airbnb Dataset/               # Raw & cleaned datasets
 ├── Images/                # Visualizations exported from notebooks
 ├── Notebook               # Jupyter notebooks
-├── requirements.txt       # Dependencies
 ├── LICENSE                # License file (MIT)
 ├── README.md              # Project overview (this file)
+├── requirements.txt       # Dependencies
 ```
 
 
