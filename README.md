@@ -43,11 +43,23 @@ It includes complete **data cleaning, EDA, visualization, and insight generation
 |-----------|------------------|
 | Language | Python |
 | Data Analysis | Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn, Plotly |
+| Visualization | Matplotlib, Seaborn |
 | Environment | Jupyter Notebook |
 | Dataset Source | [Inside Airbnb](http://insideairbnb.com/) |
 
 ---
 
 ## 📁 Project Structure
+
+
+```
+├── Dataset/               # Raw & cleaned datasets
+├── Notebook               # Jupyter notebooks
+├── Images/                # Visualizations exported from notebooks
+├── requirements.txt       # Dependencies
+├── LICENSE                # License file (MIT)
+├── README.md              # Project overview (this file)
+```
+
+---
 
