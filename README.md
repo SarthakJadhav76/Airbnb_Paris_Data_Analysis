@@ -62,13 +62,12 @@ It includes complete **data cleaning, EDA, visualization, and insight generation
 ├── requirements.txt       # Dependencies
 ```
 
-
 ## ⚙️ How to Run
 
 1. Clone this repository
 
    ```bash
-   git clone https://github.com/your-username/airbnb-paris-analysis.git
+   git clone https://github.com/SarthakJadhav76/Airbnb_Paris_Data_Analysis.git
    cd airbnb-paris-analysis
    ```
 
