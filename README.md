@@ -45,7 +45,7 @@ It includes complete **data cleaning, EDA, visualization, and insight generation
 | Data Analysis | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
 | Environment | Jupyter Notebook |
-| Dataset Source | [Inside Airbnb](http://insideairbnb.com/) |
+| Dataset Source | Kagle Dataset |
 
 ---
 
@@ -61,5 +61,68 @@ It includes complete **data cleaning, EDA, visualization, and insight generation
 ├── README.md              # Project overview (this file)
 ```
 
+
+## ⚙️ How to Run
+
+1. Clone this repository
+
+   ```bash
+   git clone https://github.com/your-username/airbnb-paris-analysis.git
+   cd airbnb-paris-analysis
+   ```
+
+2. Install dependencies
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Launch Jupyter Notebook
+
+   ```bash
+   jupyter notebook
+   ```
+
+4. Open `Airbnb_Paris_Data_Analysis.ipynb` and run the cells step by step.
+
 ---
 
+## 📊 Results
+
+Here are some key visualizations from the analysis:
+
+* **Growth of Airbnb Listings in Paris Over Time**
+  ![Listings Growth](images/listings_growth.png)
+
+* **Average Price by Locality**
+  ![Price by Locality](images/price_locality.png)
+
+* **Impact of 2017 Regulation on Host Entries**
+  ![Regulation Impact](images/regulation_impact.png)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙌 Acknowledgments
+
+* [Inside Airbnb](http://insideairbnb.com/) for providing the dataset.
+* Paris regulatory context from local housing policies.
+
+---
+
+## 🚀 Future Work
+
+* Extend the analysis to other European cities for comparison.
+* Add predictive modeling to forecast Airbnb prices.
+* Build an interactive dashboard with Plotly or Power BI.
+
+---
+
+✅ **Final Note:**
+This project highlights the intersection of **data, policy, and business strategy** in the short-term rental market.
+Paris remains a dynamic case study of how regulations reshape supply, demand, and pricing in urban tourism.
