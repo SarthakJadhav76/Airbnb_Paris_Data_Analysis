@@ -54,7 +54,7 @@ It includes complete **data cleaning, EDA, visualization, and insight generation
 
 
 ```
-├── Airbnb Dataset/               # Raw & cleaned datasets
+├── Airbnb Dataset/        # Raw & cleaned datasets
 ├── Images/                # Visualizations exported from notebooks
 ├── Notebook               # Jupyter notebooks
 ├── LICENSE                # License file (MIT)
