@@ -1,4 +1,5 @@
-![Paris Airbnb View](https://media.architecturaldigest.com/photos/68bf0cdb3c8a552bab94a517/16:9/w_1280,c_limit/imgi_113_8c2a5393-6cd3-4a6f-80e1-4edca7febe81.jpeg)
+
+![Paris Airbnb](Images/Airbnb_Paris.jpeg)
 
 # 🏙️ Airbnb Paris Data Analysis
 
@@ -54,8 +55,8 @@ It includes complete **data cleaning, EDA, visualization, and insight generation
 
 ```
 ├── Dataset/               # Raw & cleaned datasets
-├── Notebook               # Jupyter notebooks
 ├── Images/                # Visualizations exported from notebooks
+├── Notebook               # Jupyter notebooks
 ├── requirements.txt       # Dependencies
 ├── LICENSE                # License file (MIT)
 ├── README.md              # Project overview (this file)
@@ -92,13 +93,16 @@ It includes complete **data cleaning, EDA, visualization, and insight generation
 Here are some key visualizations from the analysis:
 
 * **Growth of Airbnb Listings in Paris Over Time**
-  ![Listings Growth](images/listings_growth.png)
+  ![Listings Growth](Images/listings-growth.png)
 
 * **Average Price by Locality**
-  ![Price by Locality](images/price_locality.png)
+  ![Price by Locality](Images/price_locality.png)
 
-* **Impact of 2017 Regulation on Host Entries**
-  ![Regulation Impact](images/regulation_impact.png)
+* **Average Pricing Of Airbnb Over The Years**
+  ![Average_Pricing_Over_Years](Images/pricing_chart.png)
+
+* **Impact of 2017 Regulation on Host Entries As Well As Average Price**
+  ![Regulation Impact](Images/regulation_impact.png)
 
 ---
 
@@ -119,7 +123,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * Extend the analysis to other European cities for comparison.
 * Add predictive modeling to forecast Airbnb prices.
-* Build an interactive dashboard with Plotly or Power BI.
+* Build an interactive dashboard with Power BI or Tableau.
 
 ---
 
