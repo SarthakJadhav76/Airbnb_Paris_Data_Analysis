@@ -1,4 +1,4 @@
-![Paris Airbnb Skyline](https://cdn.pixabay.com/photo/2016/03/27/20/57/paris-1283401_1280.jpg)
+![Paris Airbnb View](https://media.architecturaldigest.com/photos/68bf0cdb3c8a552bab94a517/16:9/w_1280,c_limit/imgi_113_8c2a5393-6cd3-4a6f-80e1-4edca7febe81.jpeg)
 
 # 🏙️ Airbnb Paris Data Analysis
 
