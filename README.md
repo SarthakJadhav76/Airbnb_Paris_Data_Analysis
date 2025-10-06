@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙌 Acknowledgments
 
-* [Inside Airbnb](http://insideairbnb.com/) for providing the dataset.
+* [Kagle Airbnb Dataset]([http://insideairbnb.com/](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)) for providing the dataset.
 * Paris regulatory context from local housing policies.
 
 ---
